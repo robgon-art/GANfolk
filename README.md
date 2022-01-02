@@ -2,7 +2,7 @@
 ## How to use GPT-3, StyleGAN2, and VQGAN to synthesize diverse characters from open-source images
 
 By Robert. A Gonsalves</br></br>
-![sample images](https://opensea.io/collection/ganfolk)
+<a href="https://opensea.io/collection/ganfolk">![sample images](https://raw.githubusercontent.com/robgon-art/GANfolk/main/GANfolk%20rect.png)
 
 You can see my article on Medium.
 
