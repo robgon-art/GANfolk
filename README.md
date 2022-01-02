@@ -12,7 +12,7 @@ The source code and generated images are released under the [CC BY-NC-SA license
 
 ## Google Colabs
 * [GANfolk - StyleGAN 2 and CLIP](https://colab.research.google.com/github/robgon-art/GANfolk/blob/main/GANfolk_StyleGAN_2_and_CLIP.ipynb)
-* [SpookyGAN Image Modification VQGAN and CLIP](https://colab.research.google.com/github/robgon-art/SpookyGAN/blob/main/2_SpookyGAN_Image_Modification_VQGAN_and_CLIP.ipynb)
+* [GANfolk - VQGAN and CLIP](https://colab.research.google.com/github/robgon-art/GANfolk/blob/main/GANfolk_VQGAN_and_CLIP.ipynb)
 
 ## Acknowledgements
 * StyleGAN 2 by T. Karras, et al., [Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/pdf/1912.04958.pdf)</br>
