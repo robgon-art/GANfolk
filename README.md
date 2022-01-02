@@ -11,7 +11,7 @@ The source code and generated images are released under the [CC BY-NC-SA license
 ![CC BY-NC-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
 ## Google Colabs
-* [SpookyGAN Image Creation with StyleCLIP](https://colab.research.google.com/github/robgon-art/SpookyGAN/blob/main/1_SpookyGAN_Image_Creation_with_StyleCLIP.ipynb)
+* [GANfolk - StyleGAN 2 and CLIP](https://colab.research.google.com/github/robgon-art/GANfolk/blob/main/GANfolk_StyleGAN_2_and_CLIP.ipynb)
 * [SpookyGAN Image Modification VQGAN and CLIP](https://colab.research.google.com/github/robgon-art/SpookyGAN/blob/main/2_SpookyGAN_Image_Modification_VQGAN_and_CLIP.ipynb)
 
 ## Acknowledgements
