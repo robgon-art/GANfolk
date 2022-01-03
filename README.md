@@ -6,7 +6,7 @@ By Robert. A Gonsalves</br></br>
 
 You can see my article on Medium and check out the results here, [opensea.io/collection/ganfolk](https://opensea.io/collection/ganfolk)
 
-The source code and generated images are released under the [CC BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/).</br></br>
+The source code and generated images are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br></br>
 **If you use this project to create images, please give attribution like this:** This image was created with [GANfolk](https://opensea.io/collection/ganfolk) by [Robert A. Gonsalves](https://robgon.medium.com/).</br></br>
 ![CC BY-NC-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
