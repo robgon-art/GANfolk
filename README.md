@@ -4,7 +4,7 @@
 By Robert. A Gonsalves</br></br>
 <a href="https://opensea.io/collection/ganfolk">![sample images](https://raw.githubusercontent.com/robgon-art/GANfolk/main/GANfolk%20rect.png)</a>
 
-You can see my article on Medium and check out the results here, [opensea.io/collection/ganfolk](https://opensea.io/collection/ganfolk)
+You can see my article on [Medium](https://towardsdatascience.com/ganfolk-using-ai-to-create-portraits-of-fictional-people-to-sell-as-nfts-6e24f5214ed1) and check out the results here, [opensea.io/collection/ganfolk](https://opensea.io/collection/ganfolk)
 
 The source code and generated images are released under the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/4.0/).</br></br>
 **If you use this project to create images, please give attribution like this:** This image was created with [GANfolk](https://opensea.io/collection/ganfolk) by [Robert A. Gonsalves](https://robgon.medium.com/).</br></br>
